@@ -113,7 +113,7 @@
 {
     background-image: url(gallery\ \(1\).jpg);
     height: 480px;
-    width: 1536px;
+    width: 1920px;
     background-size: cover;
 }
 #id
@@ -129,8 +129,8 @@
 #TEH 
 {
     text-align: center;
-    HEIGHT: 100px;
-    WIDTH:1400px;
+    HEIGHT: 1080px;
+    WIDTH:1920px;
     background-color:black;
     color: white;
    
