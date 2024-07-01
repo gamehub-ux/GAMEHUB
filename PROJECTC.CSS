@@ -111,7 +111,7 @@
 {
     background-image: url(COME.jpg);
     height: 480px;
-    width: 1400px;
+    width: 1536px;
     background-size: contain;
 }
 #id
@@ -126,7 +126,7 @@
 #GROUND
 {
     height: 800px;
-    width: 1400px;
+    width: 1536px;
     background-color: black;
     display: flex;
     justify-content: space-evenly;
