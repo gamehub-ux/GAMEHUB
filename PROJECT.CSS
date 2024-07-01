@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    font-family: Arial;
+     border: BORDER-BOX;
+}
+
+.navbar{
+    height: 120px;
+    background-color: #1a1a1a;
+    color: azure;
+    display: flex;
+    justify-content:space-around;
+  
+ 
+    
+}
+.navlogo
+{
+    height: 110px;
+    width: 120px;
+}
+.logo
+{
+    background-image: url(logo.jpeg);
+    background-size: cover;
+    height: 110px;
+    width: 100%;
+}
+
+
+.border
+{
+    border: 2px solid transparent;
+}
+/* .border:hover
+{
+    border: 1.5px solid white;
+} */
+#id
+{
+    display: inline;
+}
+#home
+{
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+    font-size: 15px;
+    border-width: 2px;
+    border-style:groove;
+    border-color: white;
+    border-radius:20% 20% 20% 20% / 50% 50% 50% 50% ;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#community
+{
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+    font-size: 15px;
+    border-width:2px;
+    border-style:groove;
+    border-color: white;
+    border-radius: 20% 20% 20% 20% / 50% 50% 50% 50% ;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#TOURNAMENTS
+{
+    background-color: black;
+    color:white;
+    margin-top: 40px;
+    font-size: 15px;
+    border-width: 2px;
+    border-style:groove;
+    border-color:white;
+    border-radius: 20% 20% 20% 20% / 50% 50% 50% 50% ;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+#news
+{
+    background-color: black;
+    color:white;
+    margin-top: 40px;
+    font-size: 15px;
+    border-width: 2px;
+    border-style:groove;
+    border-color: white;
+    border-radius: 20% 20% 20% 20% / 50% 50% 50% 50%  ;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+#sign
+{
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+    font-size: 15px;
+    border-width: 2px;
+    border-style:groove;
+    border-color: white;
+    border-radius:20% 20% 20% 20% / 50% 50% 50% 50% ;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.main
+{
+    background-image: url(gallery\ \(1\).jpg);
+    height: 480px;
+    width: 1400px;
+    background-size: contain;
+}
+#id
+{
+    border: 2px solid transparent; 
+    
+}
+/* /* #id:hover
+{
+    border: 1px solid white;
+    padding-top: 5px; }*/
+
+#TEH 
+{
+    text-align: center;
+    HEIGHT: 100px;
+    WIDTH:1400px;
+    background-color:black;
+    color: white;
+   
+}
+#TOP
+{
+    margin-bottom: 40px;
+}
+#home:hover
+{
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#community:hover
+{
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#TOURNAMENTS:hover
+{
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#news:hover
+{
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#sign:hover
+{
+    background-color: white;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+
+
+
