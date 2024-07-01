@@ -10,6 +10,7 @@
     color: azure;
     display: flex;
     justify-content:space-around;
+width: 1920px;
   
  
     
@@ -113,7 +114,7 @@
 {
     background-image: url(gallery\ \(1\).jpg);
     height: 480px;
-    width: 1536px;
+    width: 1920px;
     background-size: cover;
 }
 #id
@@ -139,7 +140,7 @@
 {
     margin-bottom: 40px;
  HEIGHT: 100px;
-    WIDTH:1536px;
+    WIDTH:1920px;
 }
 #home:hover
 {
